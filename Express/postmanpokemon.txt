@@ -1,0 +1,16 @@
+GET request for Mewtwo: https://pokeapi.co/api/v2/pokemon/mewtwo
+
+GET request for id 6 (Charizard) : https://pokeapi.co/api/v2/pokemon/6
+
+GET request for Rayquaza: https://pokeapi.co/api/v2/pokemon/rayquaza
+
+GET request for Dialga: https://pokeapi.co/api/v2/pokemon/dialga
+
+GET request for Mew: https://pokeapi.co/api/v2/pokemon/mew
+
+
+
+
+
+
+
